@@ -1,9 +1,18 @@
 {
   "name": "react-placeholder-shimmer",
   "version": "1.0.0",
-  "description": "react-placeholder-shimmer React component",
+  "description": "React PlaceHolder Shimmer is a Placeholder with the shimmer effect for your needs. Feel free to suggest new placeholder components or fork this repo and extend it. Thanks",
+  "bugs": {
+    "url": "https://github.com/gate3/react-placeholder-shimmer/issues",
+    "email": "doyinolarewaju@gmail.com"
+  },
+  "author": "Doyin Olarewaju",
   "main": "lib/index.js",
   "module": "es/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gate3/react-placeholder-shimmer"
+  },
   "files": [
     "css",
     "es",
@@ -18,7 +27,9 @@
     "test:coverage": "nwb test-react --coverage",
     "test:watch": "nwb test-react --server"
   },
-  "dependencies": {},
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
   "peerDependencies": {
     "react": "15.x"
   },
@@ -27,11 +38,11 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
-  "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
   "keywords": [
-    "react-component"
+    "react-component",
+    "shimmer",
+    "placeholder"
   ]
 }

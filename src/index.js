@@ -1,9 +1,13 @@
-import React, {Component} from 'react'
+import TextBlock from './TextBlock'
+import MediaBlock from './MediaBlock'
+import Button from './Button'
+import {SquareImage, RoundImage} from './Image'
+import './css/Shimmer.css'
 
-export default class extends Component {
-  render() {
-    return <div>
-      <h2>Welcome to React components</h2>
-    </div>
-  }
+export {
+  TextBlock,
+  MediaBlock,
+  Button,
+  SquareImage,
+  RoundImage
 }
