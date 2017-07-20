@@ -48,14 +48,14 @@ MediaBlock is only used to align the Round or Square Image to the side of a text
 
 ###Api
 
-##Button
+## Button
 
 | Property | Type | Description |
 | --- | --- | --- |
 | width | string | Width of the button in percent (%)|
 | centered | boolean | Should the button be centered within the parent container |
 
-##TextBlock
+## TextBlock
 
 | Property | Type | Description |
 | --- | --- | --- |
