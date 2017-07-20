@@ -8,7 +8,7 @@
 React PlaceHolder Shimmer is a Placeholder with the shimmer effect for your needs. Feel free to suggest new placeholder components or fork this repo and extend it. Thanks
 
 ## Code Example
-Checkout the [Demo](https://octo.azurewebsites.net/doyin/react-placeholder-shimmer) for code examples or the view the [Api Here](https://gate3.github.io/react-placeholder-shimmer/).
+Checkout the [Demo](http://oct-labs.com/doyin/react-placeholder-shimmer) for code examples or the view the [Api Here](https://gate3.github.io/react-placeholder-shimmer/).
 
 ## Installation
 

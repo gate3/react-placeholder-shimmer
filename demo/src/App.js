@@ -40,27 +40,27 @@ class App extends Component {
                 <br />
                 {'    return <div>'}
                 <br />
-                {'<div className="col-xs-5 src-code" style={{ margin: "0px 5px 30px" }}>'}
+                {'      <div className="col-xs-5 src-code" style={{ margin: "0px 5px 30px" }}>'}
                 <br />
-                {'<MediaBlock> <RoundImage /> <TextBlock textLines={[40, 50]} /> </MediaBlock>'}
+                {'        <MediaBlock> <RoundImage /> <TextBlock textLines={[40, 50]} /> </MediaBlock>'}
                 <br />
-                {'<TextBlock textLines={[80, 90, 70]} />'}
+                {'        <TextBlock textLines={[80, 90, 70]} />'}
                 <br />
-                {'<Button centered />'}
+                {'        <Button centered />'}
                 <br />
-                {'</div>'}
+                {'      </div>'}
                 <br />
-                {'<div className="col-xs-5 src-code" style={{ margin: "0px 5px 30px" }}>'}
+                {'      <div className="col-xs-5 src-code" style={{ margin: "0px 5px 30px" }}>'}
                 <br />
-                {'  <SquareImage />'}
+                {'        <SquareImage />'}
                 <br />
-                {' <TextBlock textLines={[80, 90, 70]} />'}
+                {'        <TextBlock textLines={[80, 90, 70]} />'}
                 <br />
-                {'<Button centered width="30" />'}
+                {'        <Button centered width="30" />'}
                 <br />
-                {'</div>'}
+                {'      </div>'}
                 <br />
-                {'</div>'}
+                {'    </div>'}
                 <br />
                 {''}
                 <br />
