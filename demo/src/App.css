@@ -5,7 +5,6 @@ body {
 }
 
 .App {
-  text-align: center;
   background: #ccc;
 }
 
@@ -50,4 +49,12 @@ section{
 h1.section-title{
   font-size: 30px!important;
   border-bottom: solid;
+}
+.centered{
+  margin:0px auto!important;
+  float: none!important;
+  margin-bottom: 40px!important;
+}
+.no-padding{
+  padding: 0px;
 }
