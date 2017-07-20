@@ -46,7 +46,7 @@ MediaBlock is only used to align the Round or Square Image to the side of a text
 
 >You can extend the library and create your own placeholder elements by importing the shimmer css import './react-placeholder-shimmer/lib/css/Shimmer.css' and using the classes `shimmer-div shine-me` on your own element
 
-###Api
+### Api
 
 ## Button
 
