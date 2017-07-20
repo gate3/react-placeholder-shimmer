@@ -15,7 +15,6 @@ Checkout the [Demo](https://octo.azurewebsites.net/doyin/react-placeholder-shimm
 npm install --save simple-react-card
 
 ## API Reference
-# Basic Card
 ```jsx
 import React, {Component} from 'react'
 import {MediaBlock, Button, SquareImage, RoundImage, TextBlock} from '../../src'
@@ -50,12 +49,14 @@ MediaBlock is only used to align the Round or Square Image to the side of a text
 ###Api
 
 ##Button
+
 | Property | Type | Description |
 | --- | --- | --- |
 | width | string | Width of the button in percent (%)|
 | centered | boolean | Should the button be centered within the parent container |
 
 ##TextBlock
+
 | Property | Type | Description |
 | --- | --- | --- |
 | textLines | arrayOf Integers | An array of integers containing the width in percentage (%) of each TextLine in the TextBlock |
